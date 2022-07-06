@@ -59,8 +59,6 @@ print(f"Hi {name}, Your category is {person_cat}")
 '''
 
 # List - Data structure, collection of items/elements
-import collections
-
 
 fruits = []
 veggies = []
