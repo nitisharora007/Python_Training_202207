@@ -131,4 +131,17 @@ def func():
 
 func()
 
+'''
+    Create a function named isPrime which will print whether number is prime or not
+        Take the default parameter in the definition of the function as 1.
+
+
+    Create a function named multiply which will take the arbitary arguments and print the total.
+
+'''
+
+
+
+
+
 # 13 Jul - Return & args/kwargs, passing the list
